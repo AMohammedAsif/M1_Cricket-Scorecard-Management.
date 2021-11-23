@@ -57,7 +57,7 @@ To run this **Cricket Score Management in C** make sure that you have a [**Co
 
 |<h1>**ID:                            Description:                                              Status:**</h1>|
 | :- |
-|LLR01|When the system is trigged, the system will give option to enter the details of the match|Successful|
-|LLR02|Admin can clear the data at any time |Successful|
-|LLR03|admin should should enter the details each and everything very carefully|Successful|
+|LLR01|  When the system is trigged, the system will give option to enter the details of the match|Successful|
+|LLR02|  Admin can clear the data at any time |Successful|
+|LLR03|  admin should should enter the details each and everything very carefully|Successful|
 
