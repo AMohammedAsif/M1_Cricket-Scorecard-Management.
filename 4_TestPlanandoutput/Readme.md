@@ -1,25 +1,48 @@
- "CRICKET SCORECARD MANAGEMENT"
+**Screenshots**
 
-**TEST PLAN:**
+![](A WELCOMING  MESSAGE.png)
 
-To start with, I have performed manual testing on the Airline Reservation System. Manual Testing is one of the oldest and rigorous methods of software testing. This testing strategy gives the best opportunity to check every page thoroughly and make sure it works in the expected manner. Due to the complexity of the various automation tools and the time available for testing. I preferred to use manual testing based on the fact that it is one of the best methods of testing suggested for a beginner.
+` `*Main Menu interface*
 
-It is storing all the records into file with all the player's details in mufti record.
+When the program is executed, the user will be directed to the main menu interface. The program is introduced with a few lines of texts are made for the user as the user can choose to cancel, display or exit the program.
 
-**Table no: High level test plan**
+![](cricket-score-sheet-data.jpg)
 
-|<h1>**ID:                                Description:                                          status:**</h1>|
-| :- |
-|HLR01|Admin should be using the Codeblocks software or any c program platform|Successful|
-| :- | :- | :- |
-|HLR02|Admin Need to store the total data of the Match using the platorm|Successful|
-|HLR03|Admin should be able to enter the result correctly|Successful|
 
-**Table no: Low level test plan**
 
-|<h1>**ID:                            Description:                                              Status:**</h1>|
-| :- |
-|LLR01| When the system is trigged, the system will give option to enter the details of the match|Successful|
-|LLR02|Admin can clear the data at any time |Successful|
-|LLR03|admin should should enter the details each and everything very carefully|Successful|
+`  `![](cricket-score-sheet-menu.jpg)
+
+
+
+`                 `![](STEP 1.png)
+
+*Figure the seat has successfully booked* 
+
+As shown in the interface the seat reservation has been booked successfully, after the user has entered the details. 
+
+`             `![](STEP 2.png)
+
+
+
+
+
+                    ![](STEP 3.png)
+
+
+
+
+
+![](STEP 4.png)
+                                                             
+ ![](STEP 5.png)                                         
+                                        
+                                                           
+
+![](STEP 6.png)
+
+![](STEP 7.png)
+
+The interface is displaying all the player record
+
+
 
